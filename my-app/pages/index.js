@@ -139,9 +139,9 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to Crypto Pirates World</h1>
+          <h1 className={styles.title}>Welcome to the Crypto Pirates World</h1>
           <div className={styles.description}>
-            Its and NFT collection for developers in crypto.
+            Its an NFT collection for pirates in crypto.
           </div>
           <div className={styles.description}>
             {numberOfWhitelisted} have already joined the Whitelist
@@ -153,7 +153,7 @@ export default function Home() {
         </div>
       </div>
       <footer className="{styles.footer}">
-        Made with &#10084; by Crypto Devs
+        Made with &#10084; by pv2k
       </footer>
     </div>
   );
